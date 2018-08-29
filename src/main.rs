@@ -6,7 +6,6 @@ extern crate msg_rs as msg_generated;
 extern crate sha1;
 extern crate tempfile;
 extern crate tokio;
-extern crate tokio_current_thread;
 extern crate url;
 #[macro_use]
 extern crate log;
